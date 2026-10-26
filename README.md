@@ -7,7 +7,8 @@
 
 ## 下载
 
-- 直接下载：[Releases](../../releases/latest) 里的 `PureDiag-16.0.2-setup.exe`
+- 直接下载：[Releases](https://github.com/NaimioChan/purediag/releases/latest) 里的
+  `PureDiag-16.0.2-setup.exe`
 - 或用 git 克隆本仓库（需要 [Git LFS](https://git-lfs.com)，否则拿到的只是指针文件）
 
 ```
