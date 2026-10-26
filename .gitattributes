@@ -1,0 +1,5 @@
+# Git LFS: the installer is a single ~264 MB binary and GitHub rejects any file
+# over 100 MB, so it is stored through LFS. A clone without `git lfs` installed
+# gets a 130-byte pointer file instead of the exe; the release asset is the
+# download path for anyone who only wants the installer.
+*.exe filter=lfs diff=lfs merge=lfs -text
